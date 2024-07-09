@@ -1,4 +1,4 @@
-This is a video game shop that retrieves games as added in the Timbu api and the details for a game can be in the details screen.
+This is a video game shop that retrieves games as added in the Timbu api and the details and price for each game.
 
 It comprises of two screens the first screen is where you see trending games and top picks, when a desired game is selected, the user is taken to the next game details screen where they see the synopsis ( short summary ) and price of the game chosen.
 
